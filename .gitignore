@@ -1,0 +1,2 @@
+#proibindo o commit de arquivos .rar
+*.rar

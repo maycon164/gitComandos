@@ -1,2 +1,11 @@
 #proibindo o commit de arquivos .rar
 *.rar
+
+#proibindo uma pasta
+#/arquivos 
+
+# proibindo todos os arquivos de uma pasta
+#arquivos/
+
+# proibindo todos os arquivos .pdf de uma pasta e de suas subpastas
+arquivos/**/*.pdf

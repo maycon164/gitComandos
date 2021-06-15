@@ -2,10 +2,13 @@
 *.rar
 
 #proibindo uma pasta
-#/arquivos 
+/arquivos 
 
 # proibindo todos os arquivos de uma pasta
-#arquivos/
+arquivos/
 
 # proibindo todos os arquivos .pdf de uma pasta e de suas subpastas
 arquivos/**/*.pdf
+
+# probindo todos os .pdf do meu projeto
+*.pdf

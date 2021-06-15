@@ -7,5 +7,5 @@ const pessoa = {
     }
 }
 
+alert(pessoa.meApresentar());
 pessoa.apresentar();
-pessoa.meApresentar()
